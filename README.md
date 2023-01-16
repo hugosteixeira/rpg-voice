@@ -18,7 +18,7 @@ A voice recognition bot for RPG sessions hosted on discord.
  - [Discord Developer's Page](https://discord.com/developers/applications)
 
 
-## Variáveis de Ambiente
+## Environment variables
 
 Rename the `config-template.json` to `config.json`
 Rename the `audios-template.json` to `audios.json`
