@@ -1,0 +1,8 @@
+{
+    "audios":[
+    {
+        "name": "fileName",
+        "phrases": ["Phrases to the bot to recognize", "Phrases to the bot to recognize", "Phrases to the bot to recognize", "Phrases to the bot to recognize", "Phrases to the bot to recognize"]
+    }
+]
+}
