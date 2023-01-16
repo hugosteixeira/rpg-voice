@@ -6,9 +6,11 @@
 
 A voice recognition bot for RPG sessions hosted on discord.
 
+The bot recognizes phrases spoken during RPG matches and plays an audio if it is registered as a trigger phrase.
 
+Ex: The dungeon master says: "There's a storm."
 
-
+If there is an audio registred for this phrase, the audio will play.
 
 
 ## References
